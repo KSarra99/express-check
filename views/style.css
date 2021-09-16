@@ -1,0 +1,41 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+ 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(51, 29, 248);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:rgb(26, 12, 150);}
+
+h1 {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+
+.smily{
+  font-size:100px;
+  margin-left: 700px;
+}
